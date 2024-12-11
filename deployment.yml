@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: kittu7286:xyz
+        image: kittu7286/devopshubg222:xyz
         ports:
         - containerPort: 8080
